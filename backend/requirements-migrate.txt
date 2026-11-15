@@ -1,0 +1,3 @@
+# Only needed to READ a PostgreSQL source during `python -m app.migrate_to_mongo`. Not needed on Render.
+-r requirements.txt
+psycopg[binary]>=3.2

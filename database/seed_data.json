@@ -1,0 +1,1059 @@
+{
+ "sports": [
+  "Cricket",
+  "Football",
+  "Basketball",
+  "Hockey",
+  "Badminton"
+ ],
+ "stadiums": [
+  {
+   "key": "melbourne",
+   "name": "Melbourne",
+   "location": "Chennai",
+   "sport": "Cricket",
+   "capacity": 50000
+  },
+  {
+   "key": "galaxy",
+   "name": "Galaxy",
+   "location": "Kerala",
+   "sport": "Cricket",
+   "capacity": 25000
+  },
+  {
+   "key": "newlands",
+   "name": "Newlands",
+   "location": "Goa",
+   "sport": "Cricket",
+   "capacity": 10000
+  },
+  {
+   "key": "wanderers",
+   "name": "Wanderers",
+   "location": "Karnataka",
+   "sport": "Cricket",
+   "capacity": 25000
+  },
+  {
+   "key": "kensington",
+   "name": "Kensington",
+   "location": "Kashmir",
+   "sport": "Cricket",
+   "capacity": 50000
+  },
+  {
+   "key": "nehru",
+   "name": "Nehru",
+   "location": "Chennai",
+   "sport": "Football",
+   "capacity": 10000
+  },
+  {
+   "key": "soccer",
+   "name": "Soccer",
+   "location": "Nagaland",
+   "sport": "Football",
+   "capacity": 15000
+  },
+  {
+   "key": "wembley",
+   "name": "Wembley",
+   "location": "Delhi",
+   "sport": "Football",
+   "capacity": 20000
+  },
+  {
+   "key": "olympic",
+   "name": "Olympic",
+   "location": "Lucknow",
+   "sport": "Football",
+   "capacity": 30000
+  },
+  {
+   "key": "crown",
+   "name": "Crown",
+   "location": "Assam",
+   "sport": "Basketball",
+   "capacity": 15000
+  },
+  {
+   "key": "norfolk",
+   "name": "Norfolk",
+   "location": "Rajasthan",
+   "sport": "Basketball",
+   "capacity": 12000
+  },
+  {
+   "key": "lakepoint",
+   "name": "Lakepoint",
+   "location": "Haryana",
+   "sport": "Basketball",
+   "capacity": 8000
+  },
+  {
+   "key": "herdon",
+   "name": "Herdon",
+   "location": "Mizoram",
+   "sport": "Hockey",
+   "capacity": 7000
+  },
+  {
+   "key": "sardhar",
+   "name": "Sardhar",
+   "location": "Sikkim",
+   "sport": "Hockey",
+   "capacity": 6000
+  },
+  {
+   "key": "kelvin",
+   "name": "Kelvin",
+   "location": "Megalaya",
+   "sport": "Badminton",
+   "capacity": 5000
+  },
+  {
+   "key": "drackton",
+   "name": "Drackton",
+   "location": "Delhi",
+   "sport": "Badminton",
+   "capacity": 7000
+  },
+  {
+   "key": "sirifort",
+   "name": "Sirifort",
+   "location": "Kerala",
+   "sport": "Badminton",
+   "capacity": 6500
+  }
+ ],
+ "categories": [
+  {
+   "stadium": "melbourne",
+   "name": "Luxury",
+   "price": 6000
+  },
+  {
+   "stadium": "melbourne",
+   "name": "Elite",
+   "price": 5500
+  },
+  {
+   "stadium": "melbourne",
+   "name": "Premium",
+   "price": 4000
+  },
+  {
+   "stadium": "melbourne",
+   "name": "Economy",
+   "price": 3500
+  },
+  {
+   "stadium": "galaxy",
+   "name": "Luxury",
+   "price": 4000
+  },
+  {
+   "stadium": "galaxy",
+   "name": "Elite",
+   "price": 3000
+  },
+  {
+   "stadium": "galaxy",
+   "name": "Premium",
+   "price": 2500
+  },
+  {
+   "stadium": "galaxy",
+   "name": "Economy",
+   "price": 2000
+  },
+  {
+   "stadium": "newlands",
+   "name": "Luxury",
+   "price": 5000
+  },
+  {
+   "stadium": "newlands",
+   "name": "Elite",
+   "price": 4000
+  },
+  {
+   "stadium": "newlands",
+   "name": "Premium",
+   "price": 3000
+  },
+  {
+   "stadium": "newlands",
+   "name": "Economy",
+   "price": 2000
+  },
+  {
+   "stadium": "wanderers",
+   "name": "Luxury",
+   "price": 4000
+  },
+  {
+   "stadium": "wanderers",
+   "name": "Elite",
+   "price": 3000
+  },
+  {
+   "stadium": "wanderers",
+   "name": "Premium",
+   "price": 2500
+  },
+  {
+   "stadium": "wanderers",
+   "name": "Economy",
+   "price": 2000
+  },
+  {
+   "stadium": "kensington",
+   "name": "Luxury",
+   "price": 4000
+  },
+  {
+   "stadium": "kensington",
+   "name": "Elite",
+   "price": 3000
+  },
+  {
+   "stadium": "kensington",
+   "name": "Premium",
+   "price": 2500
+  },
+  {
+   "stadium": "kensington",
+   "name": "Economy",
+   "price": 2000
+  },
+  {
+   "stadium": "nehru",
+   "name": "East Side",
+   "price": 2000
+  },
+  {
+   "stadium": "nehru",
+   "name": "West Side",
+   "price": 2000
+  },
+  {
+   "stadium": "nehru",
+   "name": "North Side",
+   "price": 3000
+  },
+  {
+   "stadium": "nehru",
+   "name": "South Side",
+   "price": 3000
+  },
+  {
+   "stadium": "soccer",
+   "name": "East Side",
+   "price": 2000
+  },
+  {
+   "stadium": "soccer",
+   "name": "West Side",
+   "price": 2000
+  },
+  {
+   "stadium": "soccer",
+   "name": "North Side",
+   "price": 3000
+  },
+  {
+   "stadium": "soccer",
+   "name": "South Side",
+   "price": 3000
+  },
+  {
+   "stadium": "wembley",
+   "name": "East Side",
+   "price": 2500
+  },
+  {
+   "stadium": "wembley",
+   "name": "West Side",
+   "price": 2500
+  },
+  {
+   "stadium": "wembley",
+   "name": "North Side",
+   "price": 3500
+  },
+  {
+   "stadium": "wembley",
+   "name": "South Side",
+   "price": 3500
+  },
+  {
+   "stadium": "olympic",
+   "name": "East Side",
+   "price": 2000
+  },
+  {
+   "stadium": "olympic",
+   "name": "West Side",
+   "price": 2000
+  },
+  {
+   "stadium": "olympic",
+   "name": "North Side",
+   "price": 3000
+  },
+  {
+   "stadium": "olympic",
+   "name": "South Side",
+   "price": 3000
+  },
+  {
+   "stadium": "crown",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "crown",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "crown",
+   "name": "3Rd Class",
+   "price": 1999
+  },
+  {
+   "stadium": "norfolk",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "norfolk",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "norfolk",
+   "name": "3Rd Class",
+   "price": 1999
+  },
+  {
+   "stadium": "lakepoint",
+   "name": "1St Class",
+   "price": 3000
+  },
+  {
+   "stadium": "lakepoint",
+   "name": "2Nd Class",
+   "price": 2000
+  },
+  {
+   "stadium": "lakepoint",
+   "name": "3Rd Class",
+   "price": 1000
+  },
+  {
+   "stadium": "herdon",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "herdon",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "herdon",
+   "name": "3Rd Class",
+   "price": 1999
+  },
+  {
+   "stadium": "sardhar",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "sardhar",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "sardhar",
+   "name": "3Rd Class",
+   "price": 1999
+  },
+  {
+   "stadium": "kelvin",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "kelvin",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "kelvin",
+   "name": "3Rd Class",
+   "price": 1999
+  },
+  {
+   "stadium": "drackton",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "drackton",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "drackton",
+   "name": "3Rd Class",
+   "price": 1999
+  },
+  {
+   "stadium": "sirifort",
+   "name": "1St Class",
+   "price": 3999
+  },
+  {
+   "stadium": "sirifort",
+   "name": "2Nd Class",
+   "price": 2999
+  },
+  {
+   "stadium": "sirifort",
+   "name": "3Rd Class",
+   "price": 1999
+  }
+ ],
+ "matches": [
+  {
+   "stadium": "melbourne",
+   "teams": "DCvsKKR",
+   "date": "2023-07-07",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "melbourne",
+   "teams": "CSKvsRCB",
+   "date": "2023-07-15",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "melbourne",
+   "teams": "MIvsPKBS",
+   "date": "2023-07-17",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "melbourne",
+   "teams": "GTvsMI",
+   "date": "2023-07-21",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "melbourne",
+   "teams": "RCBvsKKR",
+   "date": "2023-07-29",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "galaxy",
+   "teams": "GTvsKKR",
+   "date": "2023-07-03",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "galaxy",
+   "teams": "KKRvsMI",
+   "date": "2023-07-10",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "galaxy",
+   "teams": "MIvsGT",
+   "date": "2023-07-13",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "galaxy",
+   "teams": "GTvsRCB",
+   "date": "2023-07-19",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "galaxy",
+   "teams": "RCBvsGT",
+   "date": "2023-07-22",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "newlands",
+   "teams": "M7vsJ7",
+   "date": "2023-09-05",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "newlands",
+   "teams": "DRvsSR",
+   "date": "2023-09-07",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "newlands",
+   "teams": "RTvsKR",
+   "date": "2023-09-12",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "newlands",
+   "teams": "TTvsFT",
+   "date": "2023-09-14",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "newlands",
+   "teams": "PSvsPC",
+   "date": "2023-09-18",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "wanderers",
+   "teams": "PPvsPL",
+   "date": "2023-08-05",
+   "timing": "6:30pm-9:30pm"
+  },
+  {
+   "stadium": "wanderers",
+   "teams": "LKvsJK",
+   "date": "2023-08-08",
+   "timing": "6:30pm-9:30pm"
+  },
+  {
+   "stadium": "wanderers",
+   "teams": "MJvsJK",
+   "date": "2023-08-09",
+   "timing": "6:30pm-9:30pm"
+  },
+  {
+   "stadium": "wanderers",
+   "teams": "IUPvsNNK",
+   "date": "2023-08-10",
+   "timing": "6:30pm-9:30pm"
+  },
+  {
+   "stadium": "wanderers",
+   "teams": "IIRvsHR",
+   "date": "2023-08-11",
+   "timing": "6:30pm-9:30pm"
+  },
+  {
+   "stadium": "kensington",
+   "teams": "DCvsKKR",
+   "date": "2023-08-01",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "kensington",
+   "teams": "CSKvsRCB",
+   "date": "2023-08-16",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "kensington",
+   "teams": "MIvsPKBS",
+   "date": "2023-08-18",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "kensington",
+   "teams": "GTvsMI",
+   "date": "2023-08-23",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "kensington",
+   "teams": "RCBvsKKR",
+   "date": "2023-08-28",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "nehru",
+   "teams": "DCvsRT",
+   "date": "2023-05-07",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "nehru",
+   "teams": "SKvsRCB",
+   "date": "2023-05-17",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "nehru",
+   "teams": "MIvsPKBS",
+   "date": "2023-05-27",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "nehru",
+   "teams": "BBvsIM",
+   "date": "2023-07-28",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "nehru",
+   "teams": "RCBvsRK",
+   "date": "2023-07-29",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "soccer",
+   "teams": "DCvsVRC",
+   "date": "2023-07-07",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "soccer",
+   "teams": "CSKvsRCB",
+   "date": "2023-07-15",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "soccer",
+   "teams": "LPvsPKBS",
+   "date": "2023-07-18",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "soccer",
+   "teams": "SSvsMI",
+   "date": "2023-08-01",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "soccer",
+   "teams": "RCBvsRK",
+   "date": "2023-08-29",
+   "timing": "6:00pm-9:00pm"
+  },
+  {
+   "stadium": "wembley",
+   "teams": "skyarkVSlando",
+   "date": "2023-10-07",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "wembley",
+   "teams": "devilsVSkepler",
+   "date": "2023-10-15",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "wembley",
+   "teams": "monstersVSkings",
+   "date": "2023-10-17",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "wembley",
+   "teams": "GTvsFRS",
+   "date": "2023-10-21",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "wembley",
+   "teams": "RCBvsRKK",
+   "date": "2023-10-29",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "olympic",
+   "teams": "MAvsHD",
+   "date": "2024-01-07",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "olympic",
+   "teams": "VDvsRS",
+   "date": "2024-01-15",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "olympic",
+   "teams": "HKvsDK",
+   "date": "2024-01-17",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "olympic",
+   "teams": "HDvsVD",
+   "date": "2024-01-21",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "olympic",
+   "teams": "CBvsRK",
+   "date": "2024-01-29",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "crown",
+   "teams": "skylarkVSeagles",
+   "date": "2023-08-16",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "crown",
+   "teams": "SKvsfire",
+   "date": "2023-08-18",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "crown",
+   "teams": "HKvsSkylark",
+   "date": "2023-08-21",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "crown",
+   "teams": "eaglesvsVD",
+   "date": "2023-08-28",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "crown",
+   "teams": "CBvsfire",
+   "date": "2023-08-29",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "norfolk",
+   "teams": "DCvsRR",
+   "date": "2023-09-15",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "norfolk",
+   "teams": "LCKvsTS",
+   "date": "2024-09-17",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "norfolk",
+   "teams": "HKvsCB",
+   "date": "2024-09-20",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "norfolk",
+   "teams": "DRvsRS",
+   "date": "2024-09-27",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "norfolk",
+   "teams": "SKvsLCK",
+   "date": "2024-09-30",
+   "timing": "5:00pm-8:00pm"
+  },
+  {
+   "stadium": "lakepoint",
+   "teams": "DCvsRT",
+   "date": "2024-09-07",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "lakepoint",
+   "teams": "HKvsLCK",
+   "date": "2024-09-10",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "lakepoint",
+   "teams": "DCvsCB",
+   "date": "2024-09-20",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "lakepoint",
+   "teams": "SKvsRT",
+   "date": "2024-09-22",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "lakepoint",
+   "teams": "RTvsLCK",
+   "date": "2024-09-29",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "herdon",
+   "teams": "PROvsADD",
+   "date": "2024-07-06",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "herdon",
+   "teams": "PJvsLC",
+   "date": "2024-07-07",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "herdon",
+   "teams": "DCvsCS",
+   "date": "2024-07-08",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "herdon",
+   "teams": "SRvsFR",
+   "date": "2024-07-09",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "herdon",
+   "teams": "RTvsCK",
+   "date": "2024-07-10",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "sardhar",
+   "teams": "ADDvsRT",
+   "date": "2024-07-11",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "sardhar",
+   "teams": "PROvsLCK",
+   "date": "2024-07-12",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "sardhar",
+   "teams": "FRvsCB",
+   "date": "2024-07-13",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "sardhar",
+   "teams": "CSvsRT",
+   "date": "2024-07-14",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "sardhar",
+   "teams": "RTvsLCK",
+   "date": "2024-07-15",
+   "timing": "5:00pm-7:00pm"
+  },
+  {
+   "stadium": "kelvin",
+   "teams": "HOPvsRT",
+   "date": "2024-04-01",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "kelvin",
+   "teams": "BOBvsLK",
+   "date": "2024-04-02",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "kelvin",
+   "teams": "OAKvsNR",
+   "date": "2024-04-03",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "kelvin",
+   "teams": "VTvsRT",
+   "date": "2024-04-04",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "kelvin",
+   "teams": "YRvsIM",
+   "date": "2024-04-05",
+   "timing": "7:00pm-9:00pm"
+  },
+  {
+   "stadium": "drackton",
+   "teams": "ODvsST",
+   "date": "2024-04-07",
+   "timing": "5:30pm-6:30pm"
+  },
+  {
+   "stadium": "drackton",
+   "teams": "HKvsLCK",
+   "date": "2024-04-08",
+   "timing": "5:30pm-6:30pm"
+  },
+  {
+   "stadium": "drackton",
+   "teams": "DCvsCB",
+   "date": "2024-04-09",
+   "timing": "5:30pm-6:30pm"
+  },
+  {
+   "stadium": "drackton",
+   "teams": "ODvsRT",
+   "date": "2024-04-10",
+   "timing": "5:30pm-6:30pm"
+  },
+  {
+   "stadium": "drackton",
+   "teams": "JTvsLK",
+   "date": "2024-04-11",
+   "timing": "5:30pm-6:30pm"
+  },
+  {
+   "stadium": "sirifort",
+   "teams": "ODvsRT",
+   "date": "2024-04-12",
+   "timing": "5:00pm-6:30pm"
+  },
+  {
+   "stadium": "sirifort",
+   "teams": "RTvsLCK",
+   "date": "2024-04-13",
+   "timing": "5:00pm-6:30pm"
+  },
+  {
+   "stadium": "sirifort",
+   "teams": "RTvsLK",
+   "date": "2024-04-14",
+   "timing": "5:00pm-6:30pm"
+  },
+  {
+   "stadium": "sirifort",
+   "teams": "JTvsRT",
+   "date": "2024-04-15",
+   "timing": "5:00pm-6:30pm"
+  },
+  {
+   "stadium": "sirifort",
+   "teams": "YRvsholo",
+   "date": "2024-09-16",
+   "timing": "5:00pm-6:30pm"
+  }
+ ],
+ "food": {
+  "Desserts": [
+   [
+    "Brownie",
+    80,
+    "Warm, fudgy chocolate brownie with a crisp crackly top."
+   ],
+   [
+    "Pastry",
+    90,
+    "Soft, light pastry layered with cream."
+   ],
+   [
+    "Waffle",
+    100,
+    "Golden waffle served with chocolate drizzle."
+   ],
+   [
+    "Donut",
+    80,
+    "Fluffy glazed donut, freshly made."
+   ],
+   [
+    "Ice Cream",
+    50,
+    "Creamy scoop to cool you down between overs."
+   ]
+  ],
+  "Chats": [
+   [
+    "Panipuri",
+    30,
+    "Crisp puris filled with spiced, tangy water."
+   ],
+   [
+    "Samosa",
+    15,
+    "Crispy pastry stuffed with spiced potato and peas."
+   ],
+   [
+    "Vadapav",
+    45,
+    "Spicy potato fritter in a soft pav with chutney."
+   ],
+   [
+    "Pav Bhaji",
+    80,
+    "Buttery mashed vegetable curry with toasted pav."
+   ],
+   [
+    "Dahipuri",
+    50,
+    "Puris topped with curd, chutneys and sev."
+   ]
+  ],
+  "Beverages": [
+   [
+    "Water",
+    30,
+    "Chilled packaged drinking water."
+   ],
+   [
+    "Milkshake",
+    90,
+    "Thick, cold and creamy milkshake."
+   ],
+   [
+    "Soft Drinks",
+    45,
+    "Chilled fizzy drink of your choice."
+   ],
+   [
+    "Tea",
+    15,
+    "Hot, freshly brewed masala tea."
+   ],
+   [
+    "Coffee",
+    25,
+    "Hot filter coffee, served fresh."
+   ]
+  ],
+  "Main Course": [
+   [
+    "Fried Rice",
+    60,
+    "Wok-tossed rice with vegetables and soy."
+   ],
+   [
+    "Pizza",
+    150,
+    "Cheesy hand-tossed pizza slice, baked fresh."
+   ],
+   [
+    "Popcorn",
+    45,
+    "Freshly popped, lightly salted popcorn."
+   ],
+   [
+    "Burger",
+    120,
+    "Juicy burger stacked with fresh toppings."
+   ],
+   [
+    "Sandwich",
+    90,
+    "Grilled sandwich with veggies and cheese."
+   ],
+   [
+    "Parotta",
+    80,
+    "Flaky layered parotta, best with a side curry."
+   ]
+  ]
+ }
+}
